@@ -1,6 +1,6 @@
 # test-repository-parent
 
-This repository tries a simplified version of version control than: https://github.com/DenisGuiraudet/test-submodule-parent
+This repository tries a simplified version control than: https://github.com/DenisGuiraudet/test-submodule-parent
 
 It is a parent repository with some child repositories.  
 Later on, it should be used alongside a custom CLI/script to pull all children from the parent.
